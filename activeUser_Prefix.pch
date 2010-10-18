@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'activeUser' target in the 'activeUser' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
